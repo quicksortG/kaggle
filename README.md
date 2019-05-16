@@ -1,9 +1,11 @@
+# kaggleコンペ用ソース置き場
+
 
 ## Titanic
 
-[titanic](https://www.kaggle.com/c/titanic)
+[kaggle WebPage-titanic](https://www.kaggle.com/c/titanic)
 
 
 ## HousePrices
 
-[house-prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+[kaggle WebPage-house-prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
